@@ -1,7 +1,7 @@
 
 # Hi there
 
-I'm working since 20 years in the software development and I'm currently seeking for a job in the South of France (Sophia-Antipolis).
+I'm working since 20 years in the software development in legacy technologies and I'm currently seeking for a job in the South of France (Sophia-Antipolis).
 
 ## 🔗 Links
 
