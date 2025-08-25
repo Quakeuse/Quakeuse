@@ -10,12 +10,12 @@ I'm working since 20 years in the software development in legacy technologies an
 
 ## Current Tech Stack
 
-**Client:** C# ASP.Net
+**Client:** C# ASP.Net, HTML, CSS
 
 **Server:** IIS, Microsoft SQL Management Server
 
 ## New Tech Stack in progress 
 
-**Client:** React
+**Client:** React, Angular
 
 **Server:** Node.JS
