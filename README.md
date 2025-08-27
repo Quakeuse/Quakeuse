@@ -16,6 +16,4 @@ I'm working since 20 years in the software development in legacy technologies an
 
 ## New Tech Stack in progress 
 
-**Client:** React, Angular
-
-**Server:** Node.JS
+Python ; Git ; GitHub ; Angular
