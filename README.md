@@ -18,4 +18,4 @@ I'm actually training myself on OpenClassrooms on Python and practicing my Git u
 
 ## New Tech Stack in progress 
 
-Python ; Git ; GitHub ; Docker ; Angular
+Python ; Git ; GitHub ; Docker ; Node.js
