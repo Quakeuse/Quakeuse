@@ -10,12 +10,14 @@ I'm actually training myself on OpenClassrooms on Python and practicing my Git u
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helene-delery-7b90153b/)
 
 
-## Current Tech Stack
+## New Tech Stack in progress in 2025 
+
+Python ; Git ; GitHub ; Docker ; Node.js ; MongoDB ; API Rest
+
+## Last Tech Stack from my previous job
 
 **Client:** C# ASP.Net, HTML, CSS
 
 **Server:** IIS, Microsoft SQL Management Server
 
-## New Tech Stack in progress 
 
-Python ; Git ; GitHub ; Docker ; Node.js ; MongoDB ; API Rest
