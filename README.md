@@ -12,7 +12,7 @@ I'm actually training myself on OpenClassrooms on Python and practicing my Git u
 
 ## New Tech Stack in progress in 2025 
 
-Python ; Git ; GitHub ; Docker ; Node.js ; MongoDB ; API Rest
+Python ; Git ; GitHub ; Docker ; Node.js ; MongoDB ; React ; API Rest
 
 ## Last Tech Stack from my previous job
 
